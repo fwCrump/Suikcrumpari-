@@ -16,7 +16,9 @@ Dont use auras as it may mess up with the macro
 Use a private server
 
 DISCLAIMER
-
+##################################################################################################
+# ***THIS WAS BUILT FOR VIP PATHING, NOT NON-VIP AND NOT ABYSSAL, MAY ADD THOSE IN THE FUTURE*** #
+##################################################################################################
 I am not responsible for anything
 
 AI has been used to some extent in making this but it was mostly human-made
