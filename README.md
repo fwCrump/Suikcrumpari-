@@ -1,4 +1,4 @@
-# Suikcrumpari v0.6.5
+# Suikcrumpari 
 
 Made by **@fwcrump** or **@maybeabreadcrrmb** on Discord.  
 Please do send bugs and issues so i can fix them.
