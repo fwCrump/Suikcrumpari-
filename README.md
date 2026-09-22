@@ -1,4 +1,4 @@
-# Suikcrumpari v0.7.0
+# Suikcrumpari v0.7.5
 
 Made by **@fwcrump** or **@maybeabreadcrrmb** on Discord.  
 Please send me bugs, missed watermelon locations and issues to my discord.
@@ -12,6 +12,7 @@ Please send me bugs, missed watermelon locations and issues to my discord.
 - Don't use auras, as they may interfere with the macro
   - Alternatively, use **Auto Aura Unequip** (might bug out sometimes).
 - Use a **private server**
+- Lower graphics and limit **fps** to 120 to avoid fps spikes/drops 
 - This macro was made for VIP-pathing, not non-vip, and not abyssal hunter pathing <-------------------
 
 ---
