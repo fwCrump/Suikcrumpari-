@@ -1,5 +1,4 @@
-# Suikcrumpari v0.7.5
-
+# Suikcrumpari
 Made by **@fwcrump** or **@maybeabreadcrrmb** on Discord.  
 Please send me bugs, missed watermelon locations and issues to my discord.
 
