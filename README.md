@@ -1,4 +1,4 @@
-# Suikcrumpari v1.0.0 FULL RELEASE
+# Suikcrumpari v1.1.2 Summer's End
 
 Made by **@fwcrump** or **@maybeabreadcrrmb** on Discord.  
 Please send me bugs, missed watermelon locations and issues to my discord.
@@ -26,3 +26,5 @@ This is still an unfinished project originally made for my own use.
 I do not guarantee perfect results.
 The macro currently covers roughly 80% of the map
 Some bugs and inconsistencies are to be expected, they cannot be fixed, blame roblox, your pc, the devs, or whoever you lay your eyes on, not me though :)
+
+**actually stop reading and get  to farming BEFORE ITS GONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE**
