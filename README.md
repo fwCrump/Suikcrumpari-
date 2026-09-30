@@ -1,30 +1,40 @@
-# Suikcrumpari v1.1.2 Summer's End
+# Suikcrumpari 
 
-Made by **@fwcrump** or **@maybeabreadcrrmb** on Discord.  
-Please send me bugs, missed watermelon locations and issues to my discord.
+An AutoHotkey v2 macro that automates the suikawari minigame in Roblox, with optional features, f.e. Discord webhook notifications, auto BR/SC and stats.
 
----
+## Requirements
 
-## Recommended
+- Windows
+- VIP gamepass
+- A 1920x1080 screen with 100% scaling
+- [AutoHotkey v2.0](https://www.autohotkey.com/)
+- Roblox running in a window on the same display setup. Some pixel-related things are hard-coded, so a different resolution or UI scale will likely break detection
 
-- **Extract** your folder somewhere other than in Program Files / Program Files x86 / C:/Windows
-- Disable in-game notifications
-- Play in **1080p (1920x1080)** with 100% scaling
-- Don't use auras, as they may interfere with the macro
-  - Alternatively, use **Auto Aura Unequip**
-- Have stable fps preferably around/over 60
-- Use a **private server**
-- This macro was made for VIP-pathing, not non-vip, and not abyssal hunter pathing <-------------------
+## Setup
 
----
+- Check the Git page for a tutorial/showcase.
+
+## Controls
+
+| Key | Action |
+| --- | --- |
+| F1 | Show / hide the interface |
+| F4 | Start / stop the macro |
+| F6 | Force stop and reload the script |
+| F5 / F7 | Show mouse position and pixel color (dont mind this, for personal testing) |
+
+## Options
+
+- **Auto Unequip Auras**
+- **Auto Strange Controller**
+- **Auto Biome Randomizer**
+- **Discord Webhook**: paste a webhook URL to get notifications. Leave empty to disable. 
+
 
 ## Disclaimer
 
-Use this macro at your own risk.
-Use autohotkey v2. No, i will not make one for autohotkey v1, there's a reason it's deprecated.
-This is still an unfinished project originally made for my own use.
-I do not guarantee perfect results.
-The macro currently covers roughly 80% of the map
-Some bugs and inconsistencies are to be expected, they cannot be fixed, blame roblox, your pc, the devs, or whoever you lay your eyes on, not me though :)
+Use at your own risk. Automating games may violate the game's or platform's terms of service.
 
-**actually stop reading and get  to farming BEFORE ITS GONEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE**
+## Contact
+
+Discord: @maybeabreadcrrmb
